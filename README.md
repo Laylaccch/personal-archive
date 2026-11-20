@@ -19,3 +19,7 @@ Open `index.html` in a browser.
 
 ## Before publishing
 Replace the sample Unsplash images and placeholder copy with your own photographs and writing. Update the About text and contact link. The current images are temporary visual placeholders.
+
+
+## V2 — Floating collage
+The homepage hero now uses an overlapping photo collage with gentle scroll-linked parallax. Replace the temporary remote image URLs in `index.html` with your own images when ready. The collage is responsive and respects reduced-motion preferences.
